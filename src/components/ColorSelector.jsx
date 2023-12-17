@@ -1,5 +1,5 @@
 import { ColorPicker, useColor } from "react-color-palette";
-import "react-color-palette/lib/css/styles.css";
+// import "react-color-palette/lib/css/styles.css";
 import { useColorContext } from "../context/ColorContext";
 
 export default function ColorSelector() {
